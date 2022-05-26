@@ -14,6 +14,7 @@ Above you can find folders for each week. In these folders will be:
 
 ## Contact information
 If you have any questions regarding the lectures, tutorials or lab exercises feel free to post on the course forum about these issues since they are better answered there.
+
 If you have any other questions that pertain to yourself (i.e. regarding issues with submissions, deadline extensions etc.) OR any suggestions/improvements for future tutorials please email me at:
 **a.nauman@unsw.edu.au**
 

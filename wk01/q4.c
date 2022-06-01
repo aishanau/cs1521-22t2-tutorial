@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-// rewrite this to be a recursive function
-int main(void)
-{
-    int nums[] = {3, 1, 4, 1, 5, 9, 2, 6, 5, 3};
-    for (int i = 0; i < 10; i++) {
-        printf("%d\n", nums[i]);
-    }
+int main(void) {
+    char str[10];
+    str[0] = 'H';
+    str[1] = 'i';
+    printf("%s", str);
     return 0;
 }

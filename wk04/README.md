@@ -1,8 +1,8 @@
 # Tutorial 4
 
 ## Slides link:
-[Week 4](https://docs.google.com/presentation/d/1Oq-jvOsRy0WnmctyHeInPX_A2rbjqSxHOjJzY029ypU/edit?usp=sharing)
-[2D Array Diagram](https://docs.google.com/spreadsheets/d/13ybl_X_0dF304VszqvnllhUS0CXddlZ0DhEY0C1-0gU/edit?usp=sharing)
+- [Week 4](https://docs.google.com/presentation/d/1Oq-jvOsRy0WnmctyHeInPX_A2rbjqSxHOjJzY029ypU/edit?usp=sharing)
+- [2D Array Diagram](https://docs.google.com/spreadsheets/d/13ybl_X_0dF304VszqvnllhUS0CXddlZ0DhEY0C1-0gU/edit?usp=sharing)
 
 ## Tutorial + Lab Links
 - [Tutorial](https://cgi.cse.unsw.edu.au/~cs1521/22T2/tut/04/questions)

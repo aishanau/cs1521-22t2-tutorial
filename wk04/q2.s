@@ -14,7 +14,8 @@ loop_col:
 	# BaseOffset + (row_index * MAX_COL + col_index) * 1
 	mul 	$t2, $t0, 12
 	add	$t2, $t2, $t1
-	# add 	$t3, $t2, flag
+	# la 	$t3, flag
+	# add 	$t3, $t3, $t2
 	# lb 	$t4, $t3
 	lb 	$a0, flag($t2)		# printf ("%c", flag[row][col]);
 	li	$v0, 11

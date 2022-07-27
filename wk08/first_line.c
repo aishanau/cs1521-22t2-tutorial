@@ -17,6 +17,7 @@ int main(int argc, char* argv[]) {
         perror("");
         exit(1);
     }
+
     int c;
     while ((c = fgetc(read_stream)) != EOF) {
         fputc(c, stdout);
